@@ -1,0 +1,14 @@
+body{
+    background-size: cover;
+}
+.btn-info {
+    font-size:20px
+}
+.btn-success {
+    font-size:15px
+}
+video{
+    border: ridge;
+    border-color: aqua;
+    border-width: 5px;
+}
